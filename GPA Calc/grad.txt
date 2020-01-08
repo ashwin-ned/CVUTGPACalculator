@@ -1,0 +1,56 @@
+PhilosophyI	
+4	A
+Instrumentation for Data Acqusition and Proces Control	
+6	A
+Digital Engineering	
+4	B
+Differential Equations & Numerical Methods	
+7	D
+Discrete Mathematics and Graphs	
+5	D
+Linear Algebra	
+8	E
+Calculus 1	
+7	E
+Calculus 2	
+7	E
+Probability And Statistics	
+7	A
+Physics 1	
+8	C
+Physics 2	
+7	B
+Electric Machinery and Apparatus 1	
+5	A
+Mathematic Applications		
+4	A
+Business economics		
+4	A
+Signal Theory			
+5	C
+Fundamentals of Electrical Circuits	
+5	A
+Computer and Communication Networks	
+6	A
+Cybernetics and Artificial Intelligence	
+6	C
+Programming Essentials		
+6	C
+Electron Devices		
+5	B
+Microcontrollers		
+6	A
+Logic systems and processors	
+6	C
+Sensors and Measurement		
+6	B
+Circuits of Digital Instruments	
+5	B
+Materials for Power Engineering	
+5	A
+Programming for Engineers	
+6	B
+Automatic Control		
+7	A
+Flight Control Systems
+6	A
