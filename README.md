@@ -1,0 +1,2 @@
+A Grade Point Average (GPA) calculator that lets you calculate your precise GPA given a text file with credits and grade in the Czech grading system.
+To read more about the grading system in the czech republic [Source](https://www.czechrepubliceducation.info/education-system/grading-system-academic-year-and-language-of-instruction.html#:~:text=Czech%20Grading%20System%2C%20Language%20of%20Instruction%20%26%20Academic%20Year,3%20are%20considered%20%22fail%22.)
